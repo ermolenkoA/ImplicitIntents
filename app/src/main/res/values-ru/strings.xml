@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="buttonUri">Открыть сайт</string>
+    <string name="edittextLoc">Мост \"Золотые ворота\"</string>
+    <string name="buttonLoc">Открыть карту</string>
+    <string name="edittextShare">Съешь ещё этих мягких французских булок</string>
+    <string name="buttonShare">Поделиться текстом</string>
+</resources>
