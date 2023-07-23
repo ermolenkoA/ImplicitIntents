@@ -12,6 +12,7 @@
     <EditText
         android:id="@+id/websiteEdittext"
         android:layout_width="match_parent"
+        android:maxLines="1"
         android:layout_height="wrap_content"
         android:text="@string/edittextUri"
        />
@@ -26,6 +27,7 @@
 
     <EditText
         android:id="@+id/locationEdittext"
+        android:maxLines="1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/edittextLoc" />
@@ -41,6 +43,7 @@
     <EditText
         android:id="@+id/shareEdittext"
         android:layout_width="match_parent"
+        android:maxLines="1"
         android:layout_height="wrap_content"
         android:text="@string/edittextShare" />
 
